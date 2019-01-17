@@ -1,3 +1,8 @@
+//
+// vecmult.cpp: Parallel two vector multiplication
+//
+// (C) 2018 Alexey Paznikov <apaznikov@gmail.com> 
+//
 #include <iostream>
 #include <vector>
 #include <random>

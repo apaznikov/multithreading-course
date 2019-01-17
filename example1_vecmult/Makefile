@@ -1,2 +1,2 @@
 all:
-	g++ -Wall -pthread -std=c++1z vecmult.cpp -o vecmult
+	g++ -Wall -pthread -std=c++17 vecmult.cpp -o vecmult
